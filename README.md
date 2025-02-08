@@ -1,7 +1,7 @@
 Deployment of AI Pickle Model directly from a PC using Visual Studio Code:
 
 
-**Step 1**: Download the following files present in the GitHub (https://github.com/NimishaKR887/streamlit.git) to a folder named ("New") in the local drive in the your personal computer.
+**Step 1**: Download the following files present in the GitHub (https://github.com/NimishaKR887/VSCODE-_TO_STREAMLIT_DEPLOYMENT-POST-COVID-19-PSYCHOLOGICAL-ISSUES.git) to a folder named ("New") in the local drive in the your personal computer.
 
 
         1.Covid_19_effects.ipynb - interactive python note book
